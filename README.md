@@ -1,1 +1,6 @@
 Hello, my name is Kiriyana Chernishov and I am a math major who's interested in statistics. Data science has drawn me in because when thinking of a major to focus on to end up being a statistician after graduating, it was a choice between math and data science. I chose math the math major due to the additional aspects I enjoyed more, like the other types of math I could learn, more than coding. I am still considering a data science major, too, though, since I know it would give many useful skills as a statistician and coding is inevitiable. 
+
+Skills I'm Currently Developing:
+- My professionalism
+- My experience with coding (planning on taking classes)
+- My resume bullet-point writing skills
