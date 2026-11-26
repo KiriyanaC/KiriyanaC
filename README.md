@@ -12,3 +12,7 @@ Skills I Have, Currently:
 -	Skilled in communication, active listening, de-escalation, and customer service.
 -	Communicating complex, mathematical concepts in clear, accessible terms.
 -	Experience in conducting and presenting research with an introduction, methodology, results, and conclusion section.
+
+Contact:
+chernisk@oregonstate.edu
+[phone]
